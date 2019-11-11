@@ -1,6 +1,4 @@
-//Set frame from sprite
 
-sprite_index = 0
 
 // Process tank movement
 
