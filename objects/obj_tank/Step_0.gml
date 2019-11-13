@@ -37,7 +37,8 @@ else friction = 0;
 if speed > forwardspd speed = forwardspd;
 if speed < reversespd speed = reversespd;
 
-//process forward collisions
+//process forward collisions. I cannot figure out how to make it stop
+//when it collides in reverse.
 if(place_meeting(x+forwardspd, y, obj_wall)){
 	while(!place_meeting(x+sign(forwardspd), y, obj_wall)){
 		x += sign(forwardspd);

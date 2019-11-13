@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_back_button",
     "eventList": [
-        
+        {
+            "id": "b2490f07-1c5d-4403-991e-8017d0868661",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "aae35f49-d656-4d84-8b9f-51650ec48d83"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

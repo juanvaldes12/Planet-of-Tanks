@@ -1,3 +1,2 @@
-
 // Self explanatory
-room_goto(Help)
+room_goto(Menu)

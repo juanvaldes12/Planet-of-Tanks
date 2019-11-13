@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "3f00a357-8689-463c-a44c-dc55ccebea85",
+            "Value": {
+                "id": "6d8cf320-91e8-48a1-b1d3-3b42958071a3",
+                "resourcePath": "views\\3f00a357-8689-463c-a44c-dc55ccebea85.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "445af07b-5818-40b4-b859-6f0039de4aa5",
             "Value": {
                 "id": "aa4e1732-ea08-4b37-9ccf-da9eb7c83fea",
@@ -123,6 +131,14 @@
             "Value": {
                 "id": "d458c6e6-b2c8-4820-b6cd-2d886c3a23ea",
                 "resourcePath": "views\\55e88a67-8742-49fb-91b1-e2f6c5776d82.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5f1874cf-4e08-475b-9606-4e71f2186604",
+            "Value": {
+                "id": "23fcd167-c176-43e7-ab27-64f4cb1f91a0",
+                "resourcePath": "views\\5f1874cf-4e08-475b-9606-4e71f2186604.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "763baf2a-662e-41ad-8e24-bd26ff164cde",
+            "Value": {
+                "id": "188b41df-e52c-4ef3-9c63-e8102b45a026",
+                "resourcePath": "views\\763baf2a-662e-41ad-8e24-bd26ff164cde.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "765c8ca8-b348-463d-83e6-3b80a1b697ab",
             "Value": {
                 "id": "562bad96-2a67-4828-8af7-9c1ccc9b33a9",
@@ -188,6 +212,14 @@
                 "id": "5e8dda27-cd2d-493f-b641-87a0cf07b901",
                 "resourcePath": "sprites\\spr_tank2\\spr_tank2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7f609029-87b0-4b27-befc-b39dfc977f59",
+            "Value": {
+                "id": "5d1d3f5b-ab8b-4cf9-bcb8-5d406ccd7a36",
+                "resourcePath": "views\\7f609029-87b0-4b27-befc-b39dfc977f59.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

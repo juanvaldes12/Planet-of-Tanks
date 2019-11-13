@@ -1,5 +1,5 @@
 
-// How the movement feels in the game
+// How the movement feels in the game. I would probably change the turnradius
 
 forwardspd = 3;
 reversespd = -2;
