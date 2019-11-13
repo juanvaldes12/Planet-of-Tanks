@@ -41,13 +41,13 @@ if speed < reversespd speed = reversespd;
 
 image_angle = direction;
 
-//process horizontal collisions
+//process forward collisions
 if(place_meeting(x+forwardspd, y, obj_wall)){
 	while(!place_meeting(x+sign(forwardspd), y, obj_wall)){
 		x += sign(forwardspd);
 	}
-	forwardspd = 3;
+	forwardspd = 0;
 }
-
+else forwardspd = 3;
 
 
