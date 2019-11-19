@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "22f7a741-91a1-4634-95cc-0945a3919eee",
+            "Value": {
+                "id": "f623d13f-57df-4dd9-a99a-615caf0f03ec",
+                "resourcePath": "sounds\\Tank_explosion\\Tank_explosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "285e364f-4c33-49b8-b3b9-ce262ef7e08d",
             "Value": {
                 "id": "ee8dfbbb-36b7-47c9-adc8-bb2c4d378f65",
@@ -100,6 +108,14 @@
                 "id": "aa4e1732-ea08-4b37-9ccf-da9eb7c83fea",
                 "resourcePath": "rooms\\Playroom\\Playroom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4788361d-049d-4184-95ce-45b0b587d04a",
+            "Value": {
+                "id": "d7f9186f-6a81-4d05-bad2-b1c9b7f2c0e6",
+                "resourcePath": "sounds\\Shot\\Shot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
